@@ -60,6 +60,11 @@ $ARR_LANGUAGE_UA = [
             <li>Sunt de acord cu <strong>exonerarea de răspunderea materială</strong> a voluntarilor pentru posibilele daune produse pe timpul acţiunilor de intervenţie și recuperare executate.</li>
             <li>Sunt de acord ca <strong>datele introduse</strong> de mine mai sus, respectiv nume, număr de telefon și localizare să fie public disponibile membrilor Rescue 4x4.</li>
         </ul>',
+    'help.form-important' => '<b>ВАЖЛИВО!</b> Ця система не є екстреною Якщо ситуація є екстреною, телефонуйте 112!' .
+        '<br>Ця сторінка адресована тим, хто потребує допомоги від громади, час відповіді не гарантується!',
+    'help.form-hint' => 'Браузер відобразить повідомлення з проханням підтвердити, що ви хочете зробити доступним ваше місцезнаходження GPS. Прийміть запит на якомога точніше розташування.<br>' .
+        'Поля, позначені символом, є обов\'язковими для заповнення.<br><br>' .
+        'Щойно форму буде надіслано, учасники області автоматично отримають сповіщення за допомогою SMS та електронної пошти!',
 
     // Incident details/submitted related texts
     'incident.approximate-map-location' => 'Розташування на карті неточне',
@@ -144,6 +149,7 @@ $ARR_LANGUAGE_UA = [
     'common.yes' => 'Так',
     'common.no' => 'Ні',
     'common.reason' => 'Причина',
+    'common.choose-photo' => 'Виберіть фотографію',
 
     // Account
     'account.back-to-login' => 'Повернутися до входу',

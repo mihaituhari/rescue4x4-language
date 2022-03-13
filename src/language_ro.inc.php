@@ -54,7 +54,6 @@ $ARR_LANGUAGE_RO = [
                 sau bloca traficul.
             </li>
         </ul>',
-
     'help.disclaimer.terms' => '
         <strong class="red">Prin bifarea căsuței alăturare sunt de acord cu condițiile platformei Rescue 4x4, și anume că:</strong>
         <ul>
@@ -63,6 +62,11 @@ $ARR_LANGUAGE_RO = [
             <li>Sunt de acord cu <strong>exonerarea de răspunderea materială</strong> a voluntarilor pentru posibilele daune produse pe timpul acţiunilor de intervenţie și recuperare executate.</li>
             <li>Sunt de acord ca <strong>datele introduse</strong> de mine mai sus, respectiv nume, număr de telefon și localizare să fie public disponibile membrilor Rescue 4x4.</li>
         </ul>',
+    'help.form-important' => '<b>IMPORTANT!</b> Acest sistem nu este unul de urgență Dacă situația este una urgentă apelați 112!<br>' .
+        'Această pagină este adresată celor ce au nevoie de asistență din partea comunității, timpul de răspuns nefiind garantat!',
+    'help.form-hint' => 'Browser-ul va afișa un mesaj prin care îți cere să confirmi că dorești să pui la dispoziție locația ta GPS. Acceptă solicitarea pentru o localizare cât mai precisă.<br>' .
+        'Câmpurile marcate cu * sunt obligatorii.<br><br>' .
+        'În momentul în care formularul este trimis, membrii din zonă vor fi automat notificați prin SMS și email!',
 
     // Incident details/submitted related texts
     'incident.approximate-map-location' => 'Locația pe hartă este orientativă',
@@ -147,6 +151,7 @@ $ARR_LANGUAGE_RO = [
     'common.yes' => 'Da',
     'common.no' => 'Nu',
     'common.reason' => 'Motiv',
+    'common.choose-photo' => 'Alege poza',
 
     // Account
     'account.back-to-login' => 'Înapoi la autentificare',

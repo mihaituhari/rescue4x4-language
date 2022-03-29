@@ -16,7 +16,7 @@ $ARR_LANGUAGE_EN = [
     'homepage.button' => 'Richiedi aiuto ora',
 
     // Header
-    'header.member-unavailable' => 'Il tuo stato è  <b>non disponibile</b> non riceverai alerts!',
+    'header.member-unavailable' => 'Il tuo stato è <b>non disponibile</b> non riceverai alerts!',
 
     // Auth
     'auth.sign-out' => 'Logout',
@@ -35,10 +35,10 @@ $ARR_LANGUAGE_EN = [
 
     // Help page
     'help.terms.title' => 'Accetta termini e condizioni',
-    'help.info.field-placeholder' => 'Offer as many details about the situation, landscape, meteo conditions, etc',
-    'help.sending-text' => 'Processing request, do not close the page!',
-    'help.photos.instructions' => 'Add photos from the location, so the incident is evaluated correctly by the team.<br>' .
-        '<small>Avoid photos with license plates & faces.</small>',
+    'help.info.field-placeholder' => 'Fornisci quanti più dettagli possibili, punti di riferimento, condizioni meteo, etc',
+    'help.sending-text' => 'Richiesta in corso, non chiudere la pagina!',
+    'help.photos.instructions' => 'Aggiungi fotografie del luogo, in questo modo aiuterai il team nella valutazione.<br>' .
+        '<small>Cerca di evitare di fotografare targhe o Facce.</small>',
 
     'help.disclaimer.free-service' => '
         <ul>

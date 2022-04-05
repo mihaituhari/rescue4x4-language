@@ -54,18 +54,18 @@ $ARR_LANGUAGE_EN = [
                  or block traffic.
             </li>
         </ul>',
-    'help.disclaimer.terms' => '<strong class="red">By checking the box next to this I agree with the terms of the Rescue 4x4 platform, namely that:</strong>
+    'help.disclaimer.terms' => '<strong class="red">Confermando questa checkbox aderisco ai termini di servizio della piattaforma Rescue 4X4, nel dettaglio:</strong>
         <ul>
-            <li>I need assistance from the Rescue 4x4 community and <strong>I am not in a critical situation</strong> requiring a single emergency number <strong>112</strong>.</li>
-            <li>My request may be <strong>rejected</strong> if it is not within the scope of Rescue 4x4.</li>
-            <li>I agree with the <strongmaterial liability</strong> of the volunteers for any damages incurred during the intervention and recovery actions performed.</li>
-            <li>I agree that the <strong>data entered</strong> by me above, namely name, phone number and location, are publicly available to Rescue 4x4 members.</li>
+            <li>Ho bisogno di assistenza dalla comunità di Rescue 4x4 e <strong>non mi trovo in una situzaione critica</strong> che richiede il <strong>112</strong>.</li>
+            <li>La mia richiesta può essere <strong>respinta</strong> se questa non è nelle competenze di Rescue 4x4.</li>
+            <li>Esonero da ogni <strong>responsabilità materiale</strong> i volontari per gli eventuali danni causati durante il recupero del mezzo.</li>
+            <li>Accetto che i  <strong>dati inseriti </strong>da me qui sopra,nome, numero di telefono e posizione, saranno pubblicamente disponibili per i membri di Rescue 4X4</li>
         </ul>',
-    'help.form-important' => '<b>IMPORTANT!</b> This system is not an emergency. If the situation is urgent, call 112!<br>' .
-        'This page is addressed to those who need assistance from the community, the response time is not guaranteed!',
-    'help.form-hint' => 'The browser will display a message asking you to confirm that you want to make your GPS location available. Accept the request for an accurate location.<br>' .
-        'Fields marked with are mandatory.<br><br>' .
-        'Once the form is submitted, area members will be automatically notified via SMS and email!',
+    'help.form-important' => '<b>IMPORTANT!</b> Questo servizio non è per le urgenze! se ti trovi in una situazione urgente call 112!<br>' .
+        'Qui puoi chiedere assistenza alla comunità di volontari, non è garantita una risposta!',
+    'help.form-hint' => 'Il browser ti chiederà di condividere le informazioni sulla tua posizione GPS. Accettale per essere idenficato<br>' .
+        'I campi con * sono obbligatori.<br><br>' .
+        'Una volta completata la richiesta i membri della comunità dell\'area riceveranno un SMS ed una mail!',
 
     // Incident details/submitted related texts
     'incident.approximate-map-location' => 'Map location is not accurate',

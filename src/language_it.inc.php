@@ -1,6 +1,6 @@
 <?php
 
-$ARR_LANGUAGE_EN = [
+$ARR_LANGUAGE_IT = [
     // Global
     'brand' => 'Rescue 4x4',
     'phone' => '0377779000',

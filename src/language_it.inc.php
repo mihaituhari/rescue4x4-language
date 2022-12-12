@@ -191,6 +191,9 @@ $ARR_LANGUAGE_IT = [
             <li>Accetto di intervenire nella risoluzione degli incidenti a mio rischio e nei limiti delle mie capacità e <strong>non avrò nulla a pretendere</strong> da Rescue 4x4.</li>
             <li><strong>Nota:</strong> Rescue 4x4 <strong>non</strong> fornirà i tuoi dati a terzi per scopi commerciali.</li>
         </ul>',
+    'signup.form-hint' => '
+        ⚠️ <strong>Il modulo di iscrizione</strong> è per i volontari che hanno la capacità e la volontà di offrire aiuto.<br>
+        Se hai bisogno di <strong>aiuto</strong> usa il form dedicato <a href="/ajutor">qui</a>.',
 
     // Profile
     'profile.title' => 'Il mio account',

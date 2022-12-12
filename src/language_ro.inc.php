@@ -192,6 +192,9 @@ $ARR_LANGUAGE_RO = [
             <li>Sunt de acord că voi interveni la rezolvarea incidentelor pe propria răspundere și în limitele capabilităților și <strong>nu voi avea pretenții</strong> din partea Rescue 4x4.</li>
             <li><strong>Notă:</strong> Rescue 4x4 <strong>nu</strong> va furniza datele tale in scopuri comerciale nici unei terțe părți.</li>
         </ul>',
+    'signup.form-hint' => '
+        ⚠️ <strong>Înregistrarea</strong> este adresată celor care dispun de mijloace de transport 4x4 sau care pot oferi asistență.<br>
+        Dacă ai nevoie de <strong>ajutor</strong>, completează formularul de solicitare asistență <a href="/ajutor">aici</a>.',
 
     // Profile
     'profile.title' => 'Contul meu',

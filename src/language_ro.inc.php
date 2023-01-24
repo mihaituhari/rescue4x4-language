@@ -35,7 +35,7 @@ $ARR_LANGUAGE_RO = [
 
     // Help page
     'help.terms.title' => 'Confirmare termeni și condiții',
-    'help.info.field-placeholder' => 'Oferiți cât mai multe detalii despre eveniment, împrejurimi, teren, condiții meteo, etc',
+    'help.info.field-placeholder' => 'Precizați marca și tipul vehicului, greutatea mărfii (dacă vehiculul este încărcat), dacă aveți sau nu cui/cârlig tractare, informații despre teren (noroi, uscat, zăpadă etc.) sau locul în care este blocat vehiculul, precum și alte informații pe care le considerați relevante.',
     'help.sending-text' => 'Solicitarea se trimite, nu închideți pagina!',
     'help.photos.instructions' => 'Atașează poze de la fața locului astfel încât situația să fie evaluată corect.<br>' .
         '<small>Evită să fie vizibile numere de înmatriculare sau chipurile persoanelor de la fața locului.</small>',

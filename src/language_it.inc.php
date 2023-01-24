@@ -35,7 +35,7 @@ $ARR_LANGUAGE_IT = [
 
     // Help page
     'help.terms.title' => 'Accetta termini e condizioni',
-    'help.info.field-placeholder' => 'Fornisci più dettagli possibili circa la situazione, il territorio, le condizioni meteo, ecc',
+    'help.info.field-placeholder' => 'Specificare la marca e il tipo di veicolo, il peso del carico (se il veicolo è carico), se si dispone o meno di un gancio/gancio di traino, informazioni sul terreno (fango, asciutto, neve, ecc.) o dove si trova il il veicolo è parcheggiato, così come altre informazioni che consideri rilevanti.',
     'help.sending-text' => 'Stiamo elaborando la richiesta, non chiudere la pagina!',
     'help.photos.instructions' => 'Aggiungi foto del posto, così l\'incidente potrà essere valutato correttamente dal team.<br>' .
         '<small>Non caricare foto contenenti targhe o volti.</small>',

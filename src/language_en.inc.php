@@ -35,7 +35,7 @@ $ARR_LANGUAGE_EN = [
 
     // Help page
     'help.terms.title' => 'Confirm terms and conditions',
-    'help.info.field-placeholder' => 'Offer as many details about the situation, landscape, meteo conditions, etc',
+    'help.info.field-placeholder' => 'Specify the make and type of the vehicle, the weight of the cargo (if the vehicle is loaded), whether or not you have a tow bar/hitch, information about the terrain (mud, dry, snow, etc.) or where the vehicle is parked, as well as other information that you consider them relevant.',
     'help.sending-text' => 'Processing request, do not close the page!',
     'help.photos.instructions' => 'Add photos from the location, so the incident is evaluated correctly by the team.<br>' .
         '<small>Avoid photos with license plates & faces.</small>',

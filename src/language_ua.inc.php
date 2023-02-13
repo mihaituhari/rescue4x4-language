@@ -272,7 +272,7 @@ $ARR_LANGUAGE_UA = [
     // Chat box
     'chat.title' => 'Спільний чат Rescue4x4',
     'chat.load-older-messages' => 'Завантажити старі повідомлення',
-    'chat.type-here' => 'Введіть своє повідомлення тут...',
+    'chat.disabled' => 'Функцію вимкнено! Використовуйте Telegram для координації. Натисніть кнопку bluet для списку каналів.',
 
     // Form success
     'success.message-sent' => 'Повідомлення успішно надіслано.',

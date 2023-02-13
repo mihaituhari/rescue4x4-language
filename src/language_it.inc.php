@@ -274,7 +274,7 @@ $ARR_LANGUAGE_IT = [
     // Chat box
     'chat.title' => 'Chat della comunità Rescue4x4',
     'chat.load-older-messages' => 'Carica messaggi più vecchi',
-    'chat.type-here' => 'Digita qui il tuo messaggio...',
+    'chat.disabled' => 'Funzionalità disattivata! Usa Telegram per il coordinamento. Fare clic sul pulsante bluet per l\'elenco dei canali.',
 
     // Form success
     'success.message-sent' => 'Il messaggio è stato inviato con successo.',

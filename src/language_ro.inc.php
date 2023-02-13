@@ -275,7 +275,7 @@ $ARR_LANGUAGE_RO = [
     // Chat box
     'chat.title' => 'Chat comunitate Rescue4x4',
     'chat.load-older-messages' => 'Incarcă mesaje mai vechi',
-    'chat.type-here' => 'Tastează mesajul tău aici ...',
+    'chat.disabled' => 'Functie dezactivata! Folositi Telegram pentru coordonare. Click pe butonul albastru pentru lista canale judetene.',
 
     // Form success
     'success.message-sent' => 'Mesajul a fost trimis cu succes.',

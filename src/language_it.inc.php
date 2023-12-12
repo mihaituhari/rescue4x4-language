@@ -67,6 +67,14 @@ $ARR_LANGUAGE_IT = [
         'I campi contrassegnati con * sono obbligatori.<br><br>' .
         'Una volta inviato il modulo, i membri nella zona saranno automaticamente notificati via SMS e email!',
 
+    'help.location' => 'Località, Distretto o Comune in cui ti trovi',
+    'help.landmark' => 'Specifica punti di riferimento/informazioni sulla tua posizione e come raggiungerti',
+    'help.vehicle-info.title' => 'Informazioni sul Veicolo',
+    'help.request-info.title' => 'Problema Riscontrato e Cosa Richiedi',
+    'help.request-info.details' => 'Specifica il problema che stai affrontando, quale tipo di assistenza necessiti, informazioni' .
+        ' sul terreno (fango, asciutto, neve), la posizione e come trovare il veicolo, nonché altre informazioni rilevanti per' .
+        ' consentire ai volontari di valutare meglio la situazione.',
+
     // Incident details/submitted related texts
     'incident.approximate-map-location' => 'La posizione sulla mappa è approssimativa',
     'incident.submitted-alert-scams' =>' Se ti chiedono denaro o beni, ti preghiamo di <strong>rifiutare</strong> con fermezza e chiamare subito il <a href="tel:0377779000">0377 779 000</a> !',

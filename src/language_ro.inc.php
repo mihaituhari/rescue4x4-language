@@ -68,6 +68,14 @@ $ARR_LANGUAGE_RO = [
         'Câmpurile marcate cu * sunt obligatorii.<br><br>' .
         'În momentul în care formularul este trimis, membrii din zonă vor fi automat notificați prin SMS și email!',
 
+    'help.location' => 'Localitate, Sector sau Comuna pe raza căreie sunteți',
+    'help.landmark' => 'Precizați repere/informații despre loculul unde sunteți și cum se ajunge la dvs',
+    'help.vehicle-info.title' => 'Informații despre vehicul',
+    'help.request-info.title' => 'Problema întâmpinată și ce solicitați',
+    'help.request-info.details' => 'Precizați problema întâmpinată, ce fel de ajutor solicitați, informații despre teren ' .
+        '(noroi, uscat, zăpadă), locul și modul în care se regăsește vehiculul, precum și alte informații relevante pentru ' .
+        'ca voluntarii să evalueze mai bine situația dvs.',
+
     // Incident details/submitted related texts
     'incident.approximate-map-location' => 'Locația pe hartă este orientativă',
     'incident.submitted-alert-scams' => 'Dacă va sunt pretinse foloase financiare sau bunuri, <strong>refuzați</strong> ferm și sunați de urgență la numărul <a href="tel:0377 779 000">0377 779 000</a> !',

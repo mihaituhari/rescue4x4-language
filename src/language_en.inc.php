@@ -67,6 +67,14 @@ $ARR_LANGUAGE_EN = [
         'Fields marked with * are mandatory.<br><br>' .
         'Once the form is submitted, area members will be automatically notified via SMS and email!',
 
+    'help.location' => 'City, Sector or Municipality you are in',
+    'help.landmark' => 'Specify landmark/information about where you are and how to get there',
+    'help.vehicle-info.title' => 'Vehicle information',
+    'help.request-info.title' => 'Problem encountered and what you are requesting',
+    'help.request-info.details' => 'Specify the problem you are experiencing, what kind of help you require, information ' .
+        'about the terrain (mud, dry, snow), where and how the vehicle is located, and other relevant information so that ' .
+        'volunteers can better assess your situation',
+
     // Incident details/submitted related texts
     'incident.approximate-map-location' => 'Map location is not accurate',
     'incident.submitted-alert-scams' => 'If you are requested to offer money or goods, <strong>refuse</strong> strongly and call urgently <a href="tel:0377779000">0377 779 000</a> !',
